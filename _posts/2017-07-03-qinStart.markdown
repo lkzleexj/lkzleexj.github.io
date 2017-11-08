@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "琴社入门"
-img: himalayan.jpg # Add image post (optional)
+img: himalayan.jpg
 date: 2017-07-03 12:55:00 +0300
-description: 琴行描述，介绍入门知识 # Add post description (optional)
+description: 琴行描述，介绍入门知识
 tag: [Qin]
 ---
 

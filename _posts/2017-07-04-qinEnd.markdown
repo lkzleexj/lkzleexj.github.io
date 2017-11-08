@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "修身养性"
-img: canyon.jpg # Add image post (optional)
+img: canyon.jpg
 date: 2017-07-04 12:54:00 +0300
-description:修身养性介绍，巴拉巴拉巴拉巴拉！！ # Add post description (optional)
-tag: [Travel, Texas, Canyon]
+description: 修身养性介绍，巴拉巴拉巴拉巴拉！！
+tag: [Qin]
 ---
 
 
