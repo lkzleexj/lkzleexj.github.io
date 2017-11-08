@@ -1,0 +1,13 @@
+---
+layout: post
+title: "琴社入门"
+img: himalayan.jpg # Add image post (optional)
+date: 2017-07-03 12:55:00 +0300
+description: 琴行描述，介绍入门知识 # Add post description (optional)
+tag: [Qin]
+---
+
+琴，后加至七根弦（亦称“七弦琴”；通称“古琴”）；某些乐器的统称，其中不包括吉他、二胡等。
+在古代，人的文化修养是用琴、棋、书、画四方面的才能表现的，弹琴为四大才能之首。
+
+	在古代，人的文化修养是用琴、棋、书、画四方面的才能表现的，弹琴为四大才能之首。
