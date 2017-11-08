@@ -1,15 +1,44 @@
 ---
 layout: post
-title: "Texas: Grand Canyon"
+title: "修身养性"
 img: canyon.jpg # Add image post (optional)
 date: 2017-07-04 12:54:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description:修身养性介绍，巴拉巴拉巴拉巴拉！！ # Add post description (optional)
 tag: [Travel, Texas, Canyon]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+修身养性，修身：使身体健康；养性：使心智本性不受损害。通过自我反省体察，使身心达到完美的境界。出处 元·无名氏《博望烧屯》第一折：“贫道本是南阳一耕夫，岂管尘世之事 只可修身养性，贫道去不的也。”
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+# 戒生气
+
+古人云：“气大伤身。”生气是人类负面情绪中的一
+修身养性
+修身养性
+种，一个人如果经常生气，就会使身心受到损害。尤其对肝脏损伤严重，实际生气是拿别人的错误惩罚自己。
+
+# 戒自卑
+
+自卑可以轻而易举地摧毁一个人，要努力丰富自己，自强而后崛起。
+戒嫉妒
+与其将有限的精力消耗在嫉妒他人的成功上，不如抓住时机做一些实事，提高自己便于更有竞争力。
+# 戒小人
+
+小人不但对我们的人生之路毫无帮助，反而会成为一块在关键时刻让你跌倒的绊脚石。
+# 戒诱惑
+
+我们要力戒权力、金钱、美色等各种诱惑，不断完善自身素质，加强个人修养，提高道德品质，同时保持一份健康平和的心态。
+# 戒暴怒
+
+暴怒容易使人失去理智，所以，一定要学会控制自己的情绪。
+# 平和心
+
+`
+静坐当思
+修身养性
+修身养性
+自己过，闲谈莫论他人非。
+能受苦乃为志士，肯吃亏不是痴人。
+敬君子方显有德，避小人不算无能。
+退一步天高地阔，让三分心平气和。
+`
